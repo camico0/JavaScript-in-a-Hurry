@@ -1,2 +1,2 @@
 # JavaScript-in-a-Hurry
-JavaScript page implementing iteration, foreach, for each, date&amp;time and filter
+JavaScript page implementing iteration, foreach,  date, time and filter
